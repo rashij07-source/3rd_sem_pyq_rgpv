@@ -1,0 +1,1142 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Explain the following terms in detail. i) Accuracy ii) Precision iii) Resolution",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Explain the working of chopper type DC voltmeter in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Explain in case of DVM: i) 3½ digits ii) 5½ digits What is the significance of ½ digit?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Explain the resolution and sensitivity of DVM in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "List out different AC voltmeters and explain the working of any one voltmeter in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Explain different static characteristics of instrument and measurement system.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Explain the resolution and sensitivity of DVM in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Explain the terms: Static Error, Static Correction, Relative Error and Percentage Relative Error.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Explain the working of a differential amplifier using two FET's. Derive the expression for the output voltage.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Why is it preferable to have slightly under damped instrument? Explain.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Explain in case of DVM: i) 3½ digits ii) 5½ digits. What is the significance of ½ digit?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Explain about the conversion logic used in case of simultaneous type of A/D DVM.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "List various static and dynamic characteristics of measurement system and briefly explain each one of them.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Explain the working principle of chopper type DC voltmeter along with a suitable block diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "List the advantages and disadvantages of digital instrument over analog instrument.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "List the types of errors in measurement and discuss about the importance of calibration.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Explain the following terms in detail i) Accuracy ii) Resolution iii) Precision iv) Expected value",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "List out different AC voltmeters and explain the working of any one voltmeter in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Explain the following terms in detail i) Accuracy ii) Resolution iii) Precision iv) Expected value",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "List out different AC voltmeters and explain the working of any one voltmeter in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Define the terms i) Accuracy ii) Precision iii) Static sensitivity iv) Reliability",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "What do you mean by calibration curve? Explain loading effects due to shunt connected and series connected instruments.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Explain the construction and working of D'arsonal Galvanometer.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Expalin why PMMC instruments are the most widely used instruments. Discuss their advantages and disadvantages.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Explain with the help of block diagram the working of Digital voltmeter.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Describe the circuit diagram of a series type ohm meter. Explain how is it designed. Why are series type ohm meter preferred over shunt type ohm meters?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Write short notes on (any two): b) Economics of measurement system",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.28",
+        "question_text": "Write the applications of CRO and explain the concept of dual trace CRO.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Explain the working of digital storage oscilloscope with suitable diagram.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Draw the block diagram of CRO and explain different parts of CRO.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Draw the circuit diagram of sampling oscilloscope and explain its operation in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Write short note on following. a) Digital storage oscilloscope",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Explain special purpose CRO's with examples.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Differentiate between dual beam and dual trace CROs, also draw block diagram of each.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "What is the importance of measuring probes of CRO, their types, explain 10:1 probe with diagram?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "What are graticules in CROs?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Explain the concept of storage oscilloscope along with circuit diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Draw the circuit diagram of Sampling oscilloscope and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Draw the circuit diagram of Dual Trace oscilloscope and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Explain the concept of storage oscilloscope along with circuit diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Draw the circuit diagram of Sampling oscilloscope and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Draw the circuit diagram of Dual Trace oscilloscope and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.43",
+        "question_text": "Draw the circuit diagram of Schering bridge and explain its operation.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Discuss about the impedance measurement by Q-meter.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Write short note on following. a) Hay's bridge",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Draw the circuit diagram of Hay's bridge and explain its operation.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Discuss the condition during which the bridge sensitivity is maximum for a detector.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Write short note on following. b) Wein bridge",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Draw the circuit diagram of Schering's Bridge and explains the operation of it.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Explain the \"parallel-connection\" method of using Q-meter and Obtain the expressions for resistance, reactance and Q-factor.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Explain the principle of Impedance measurement by Q meter.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "In Hay's bridge the four arms are arranged as under. AB is a resistance of 600$$\\Omega$$ in series with an inductor of 0.18 H, BC and DA are non-inductive resistances of 1200$$\\Omega$$ each and CD consists of a resistance R in series with a capacitor C. A potential difference of 3V at a frequency of 50 Hz is applied between A and C. Determine the values of R and C. Derive the condition for bridge balance.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Show how the Wien's bridge can be used for the measurement of frequency in audio range. Derive the equation for frequency f.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Discuss the condition during which the Bridge sensitivity is maximum for a detector.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Why Maxwell's inductance capacitance bridge cannot be used, for high Q coils, to find unknown inductance?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Derive the equation for unknown capacitance using Schering bridge. List its applications.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Draw the circuit diagram of Schering's Bridge and explains the operation of it.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Explain the \"parallel-connection\" method of using Q-meter and Obtain the expressions for resistance, reactance and Q-factor.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Draw the circuit diagram of Schering's Bridge and explains the operation of it.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Explain the \"parallel-connection\" method of using Q-meter and Obtain the expressions for resistance, reactance and Q-factor.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "A Wheatstone bridge is shown in figure. The values of resistance are P = 1k$$\\Omega$$, R = 1k$$\\Omega$$, S = 5k$$\\Omega$$, G = 100$$\\Omega$$. The thevenin source generator voltage $$E_0$$=24mV and the galvanometer current is 13.6$$\\mu$$A. Calculate the value of Q.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "Top",
+            "Bottom",
+            "Left",
+            "Right"
+          ],
+          "edges": [
+            {
+              "from": "Left",
+              "to": "Top",
+              "weight": "P"
+            },
+            {
+              "from": "Top",
+              "to": "Right",
+              "weight": "Q"
+            },
+            {
+              "from": "Left",
+              "to": "Bottom",
+              "weight": "R"
+            },
+            {
+              "from": "Bottom",
+              "to": "Right",
+              "weight": "S"
+            },
+            {
+              "from": "Top",
+              "to": "Bottom",
+              "weight": "G"
+            },
+            {
+              "from": "Left",
+              "to": "Right",
+              "weight": "E"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Write short notes on (any two): c) Kelvin's double bridge",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.63",
+        "question_text": "What is Thermocouple? Explain working principle of piezo-electric transducer.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "What is transducer? Classify the transducers.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Explain the working principle of LVDT with diagram.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Explain the photo-diode in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "What is Thermistor and explain its importance along with advantages of it.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Draw the Linear variable differential Transducer and explain its operation in detail.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Explain the construction and working of a LVDT. Explain how the magnitude and direction of the displacement of core of an LVDT is detected?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Describe the different modes of operation of piezo electric transducers. Define and sketch binders and twisters.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Discuss about the various types of optical transducers Photoemissive, photoconductive and photovoltaic.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "List the different ways to classify transducers.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Explain the working principle of piezoelectric transducer.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "What is Thermistor and explain its importance along with advantages of it.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Draw the Linear variable differential Transducer and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "What is the difference between photo-emissive, photo-conductive and photo voltaic transducers?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Write a short note on any two. a) Accelerometer",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Write a short note on any two. b) Bolometer",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Write a short note on any two. c) Photo transistor",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "What is Thermistor and explain its importance along with advantages of it.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Draw the Linear variable differential Transducer and explain its operation in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "What is the difference between photo-emissive, photo-conductive and photo voltaic transducers?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Write a short note on any two. a) Accelerometer",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Write a short note on any two. b) Bolometer",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Write a short note on any two. c) Photo transistor",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.86",
+        "question_text": "Discuss about the working of LED in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Describe the operation of sweep frequency generator with diagram.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Draw and explain the operation of successive approximation ADC.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "Draw and explain the working of 3 bit R-2R ladder DAC.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "Write short note on following. b) LCD",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Describe the working of pulse wave generator with diagram.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Discuss about the working of LCD in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Draw a weighted resistor DAC and obtain the transfer characteristic of a 3 bit DAC.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Draw and explain the operation of dual slope integrating type ADC.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "Find out step size and analog output for 4 bit R-2R ladder DAC, when input is 0111 and 1111, assume $$V_{ref} = +5V$$.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Explain the working principle of sweep frequency generator along with block diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Classify various display devices: LED, LCD. List their advantages and disadvantages.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Explain the working principle of R-2R ladder type DAC, along with circuit diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Explain the working principle of integrating type ADC, along with diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Find out resolution of a 5 bit ADC, having voltage range of 10V. Also find out the range for MSB and % of error in conversion.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Draw the block diagram of 3-bit R-2R ladder DAC and explain its operation.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Write and explain the total number of clock pulses needed for counter type, flash, SAR, and dual slope ADC's.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Explain the working principle of successive approximation A/D conversion with suitable diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Explain the 4-bit weighted resistor type D/A converter in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Write a short note on any two. d) Binary adder",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Draw the block diagram of 3-bit R-2R ladder DAC and explain its operation.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Write and explain the total number of clock pulses needed for counter type, flash, SAR, and dual slope ADC's.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Explain the working principle of successive approximation A/D conversion with suitable diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Explain the 4-bit weighted resistor type D/A converter in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Write a short note on any two. d) Binary adder",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-06",
+    "questions": [
+      {
+        "serial_number": "Q.111",
+        "question_text": "Write down the difference between current transformer and potential transformer. Also explain their working.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Describe the constructional details and working of an electrodynamometer type of wattmeter. Discuss the main sources of errors in electrodynamometer type instruments.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Explain the measurement of power using i) Three wattmeter method ii) CTs and PTs",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Explain the construction and operation of single phase and three phase electronic energy meter.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "What is Phantom loading? Explain with example. Also describe the testing by phantom loading for energy meters.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Explain the working of Weston type frequency meter.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "What is a B-H curve in terms of magnetic material? Write down its characteristics?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Write short notes on (any two): a) Lloyd fisher square method",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "Write short notes on (any two): d) Maximum demand meter",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
