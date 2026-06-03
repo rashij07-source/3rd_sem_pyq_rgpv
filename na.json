@@ -1,0 +1,3455 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Explain the intrinsic and extrinsic semiconductor in details.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Describe the energy band structure of insulators, semiconductors and conductors.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Explain the V-I characteristics of zener diodes along with its applications.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Determine the temperature coefficient of a zener diode having voltage of 5V at 25 degree celsius, drops to 4.8V at temperature of 100 degree celsius.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Schotky diode",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Draw and explain the working of varactor diode.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Explain the energy bands and equilibrium condition is semiconductors.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Tunnel diode",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Explain the working of tunnel diode and its VI characteristics. What is the sufficient conditions for tunnelling?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Explain the construction and working of Zener diode.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Find the concentration of holes and electrons in a P-type germanium at $$300^{\\circ} K$$, if the conductivity is $$100 \\Omega cm$$, mobility of holes in germanium $$\\mu_p = 1800 cm^2/volt-sec$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Define elemental and compound semiconductor materials with examples and draw energy band diagram for intrinsic and extrinsic silicon.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Tunnel diode",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Photo diode",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Schottky diode",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Breakdown mechanism",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "LED and solar cell",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Explain the breakdown mechanisms in PN diode.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "The reverse saturation current $$I_o$$ in a germanium diode is $$6 \\mu A$$. Calculate the current flowing through the diode when the applied forward bias voltages are 0.2, 0.3 and 0.4 V at room temperature.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Varactor diode",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Photo diode",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "PN diode in biased condition",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Discuss about Drift current and diffusion current.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Explain the working of PN junction diode in forward and reverse bias.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Zener diode",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Varactor diode",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Schottky diode",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "LED",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Tunnel diode",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Hall effect",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.31",
+        "question_text": "Draw and explain the clipper and clamper circuits.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Explain full wave and bridge rectifier with suitable diagram.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Discuss voltage regulator. Explain series voltage regulator circuit in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Compare the ideal and practical diode with their advantages and disadvantages.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Clipper and clamper",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "With a neat sketch explain the working of half wave rectifier. Derive the characteristics of HWR.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Determine the rating of a transformer to deliver 125 watts of DC power to a load for the following: i) Half wave rectifier ii) Full wave rectifier",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "An AC supply of 220V is applied to half wave rectifier circuit through a transformer with a turns ratio of 10:1. Find: i) DC output voltage ii) PIV. Assume the diode to be an ideal one.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Explain the working of simple clipper and clamper with circuit diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Describe the working of half wave and full wave bridge rectifier circuits with circuit diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Determine $$V_o$$ for the network of figure (ii).",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "Vi",
+            "Node_R",
+            "Node_Diode",
+            "Vo",
+            "Ground"
+          ],
+          "edges": [
+            {
+              "from": "Vi",
+              "to": "Node_R"
+            },
+            {
+              "from": "Node_R",
+              "to": "Node_Diode",
+              "label": "Resistor R"
+            },
+            {
+              "from": "Node_Diode",
+              "to": "Ground",
+              "label": "Diode in series with 4V Battery"
+            },
+            {
+              "from": "Node_Diode",
+              "to": "Vo"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Compare halfwave rectifier, fullwave rectifier and bridge rectifier.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Define Clipper. Explain different types of clipper circuits.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Design LC filter for a Full-wave rectifier circuit to provide an output voltage of 10 V with a load current of 200 mA and the ripple is limited to 2%.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.45",
+        "question_text": "Define photo transistor. Explain the various configuration of BJT.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Explain any one biasing technique of BJT with suitable diagram.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "E-M model",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Describe PNP transistor in common base configuration.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "For a CE configuration based NPN transistor, calculate $$\\beta$$ and $$R_B$$ if, $$V_{CC}=9V, V_{BB}=4V, I_C=5mA, V_{CE}=5V, \\beta=50$$ and $$V_{BE}=0.7V$$.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Explain the fixed and self bias circuit of transistor.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "DC and AC load line",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Transistor as a switch",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "From the transistor current components deduce the current equation of transistor.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "What is biasing? Explain the need of it. List the different types of biasing circuits.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "In a self-bias circuit containing $$R_1=50K \\Omega, R_2=25K \\Omega, R_E=1K \\Omega, R_C=3K \\Omega, \\beta=90, V_{CC}=12V, V_{BE}=0.7V$$. Find the operating point, S, S'.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Write name of mode of operation and configurations for BJT. Also describe basic construction and operation.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "What is need of biasing? Write name of different biasing techniques used in BJT and describe any one in detail.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Photo transistor",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Determine the dc bias voltage $$V_{CE}$$ and the current $$I_C$$ for the voltage-divider configuration shown in figure (i).",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "Vin",
+            "Base",
+            "Collector",
+            "Emitter",
+            "Ground",
+            "+22V",
+            "Vout"
+          ],
+          "edges": [
+            {
+              "from": "Vin",
+              "to": "Base",
+              "label": "10uF capacitor"
+            },
+            {
+              "from": "+22V",
+              "to": "Base",
+              "label": "39k resistor"
+            },
+            {
+              "from": "Base",
+              "to": "Ground",
+              "label": "3.9k resistor"
+            },
+            {
+              "from": "+22V",
+              "to": "Collector",
+              "label": "10k resistor"
+            },
+            {
+              "from": "Collector",
+              "to": "Vout",
+              "label": "10uF capacitor"
+            },
+            {
+              "from": "Emitter",
+              "to": "Ground",
+              "label": "1.5k resistor parallel with 50uF"
+            },
+            {
+              "from": "Base",
+              "to": "Collector",
+              "label": "BJT Connection"
+            },
+            {
+              "from": "Base",
+              "to": "Emitter",
+              "label": "BJT Connection"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Ebers-Moll model",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Bias stabilization and Thermal runaway",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Transistor as a switch",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(b)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Calculate the quiescent current and voltage of collector to base bias arrangement using the following data: $$V_{CC} = 10 V, R_B = 100 K, R_C = 2 K, \\beta = 50$$ and also specify a value of $$R_b$$ so that $$V_{CE} = 7 V$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "For the NPN transistor connected in CE configuration with $$V_{CC}=9 V, V_{BB}=4V, I_C=5 mA, V_{CE}=5 V, \\beta=50$$ and $$V_{BE}=0.7 V$$. Find $$\\beta$$ and $$R_B$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Explain voltage divider biasing circuit. Discuss the advantages of the circuit.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Ebers moll model",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Discuss the construction and basic operation of bipolar junction transistor.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Discuss about Eber's Moll model.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Discuss about voltage divider bias and collector to base bias of transistor.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Discuss the working of transistor as a switch.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.71",
+        "question_text": "Describe the class A and class B amplifiers.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Explain the coupling method in multistage amplifier.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Give the analysis of transistor amplifier using h-parameter.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Current mirror circuit",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Push-pull amplifier",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Darlington amplifier",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Find the h-parameters for CE configuration from the characteristic curve.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Explain the class B power amplifier circuit in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Describe the Darlington amplifier circuit with suitable diagram and applications.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Explain Boot-Strapping technique and current mirror circuit in brief.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Class A amplifier",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "With the help of neat diagram explain class A and class B amplifiers.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "What is the need of bootstrapping circuit? Explain bootstrapping circuit with neat diagram.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Darlington amplifier and Cascode amplifier",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Low and high frequency response",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Coupling methods in multistage amplifier",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Perform analysis of common emitter amplifier using h-parameter.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Power amplifiers",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "Determine the h-parameters for CE configuration from the characteristics curve.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "In the CE amplifier calculate the mid frequency voltage gain and lower 3-dB point. The transistor has h-parameters $$h_{fe}=400$$ and $$h_{ie}=10 k\\Omega$$, the circuit details are $$R_s = 600 \\Omega, R_L = 5 k\\Omega, R_e = 1 k\\Omega, V_{CC} = 12 V, R_1 = 15 k\\Omega, R_2 = 2.2 k\\Omega$$ and $$C_e = 50 \\mu F$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Explain the Darlington amplifier circuit. List the applications of the Darlington circuit.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Current mirroring circuits",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Discuss the analysis of transistor amplifier using h-parameters.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Class A",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "Class AB",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.96",
+        "question_text": "Explain the construction and working of JFET.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Describe the principle of operation and characteristics of UJT in details.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "MOSFET",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Explain Thyristor, its principle of operation and applications in details.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Draw the equivalent circuit of a MOSFET operating in enhancement mode.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Pinch off voltage",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Calculate the values of $$I_D$$ and $$g_m$$ for $$V_{GS} = -0.8V$$. If $$I_{DSS}$$ and $$V_P$$ are given as 12 Amp and -6V respectively.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Explain the construction and working of JFET with the help of neat diagram.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "What is UJT? Explain UJT as relaxation oscillator.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Transfer and drain characteristics of JFET and MOSFET",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "UJT and Thyristors",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Common Source (CS) and Common Gate (CG) configurations",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Derive expression of voltage gain of CS amplifier using hybrid-pi model.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "For the circuit of figure (iii) determine i) $$I_{DQ}$$ and $$V_{GSQ}$$ ii) $$V_{DS}$$",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "Vi",
+            "Gate",
+            "Drain",
+            "Source",
+            "Ground",
+            "+18V",
+            "Vo"
+          ],
+          "edges": [
+            {
+              "from": "Vi",
+              "to": "Gate",
+              "label": "Capacitor"
+            },
+            {
+              "from": "+18V",
+              "to": "Gate",
+              "label": "110Mohm resistor"
+            },
+            {
+              "from": "Gate",
+              "to": "Ground",
+              "label": "10Mohm resistor"
+            },
+            {
+              "from": "+18V",
+              "to": "Drain",
+              "label": "1.8kohm resistor"
+            },
+            {
+              "from": "Drain",
+              "to": "Vo",
+              "label": "Capacitor"
+            },
+            {
+              "from": "Source",
+              "to": "Ground",
+              "label": "750ohm resistor"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "UJT relaxation oscillator",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(b)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Discuss the operation of enhancement MOSFET at different regions with suitable figures and equations.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Sketch the circuit of CS amplifier and derive the expression for voltage gain at low frequencies.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "JFET characteristics",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Discuss the principle working of enhancement and depletion MOSFET.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Discuss the principle of operation of UJT.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Silicon controlled rectifier",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+][
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Explain the characteristics of basic circuit elements $$R$$, $$L$$, and $$C$$. Discuss linearity, time dependency, and the voltage–current relationships of each element in detail.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Identify the node voltages in the circuit shown in figure.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "Ref"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "3A"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "Ref",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "8\u03a9"
+            },
+            {
+              "from": "3",
+              "to": "Ref",
+              "weight": "Is"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Explain the concept of resonance in electrical circuits. Discuss series resonance and parallel resonance with frequency response characteristics.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Calculate the mesh current $$i_1$$ and $$i_2$$ in the circuit shown in figure.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "F",
+              "weight": "12V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "E",
+              "weight": "12\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "9\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "8V"
+            },
+            {
+              "from": "F",
+              "to": "E",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "E",
+              "to": "D",
+              "weight": "3\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Find the voltage across the dependent current source",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "Vs=50V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "XI1"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Discuss dot Convention used in Magnetically coupled Circuits with suitable example.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "An impedance $$Z_1 = 10 + j10 \Omega$$ is connected in parallel with another impedance of resistance $$8.5 \Omega$$ and a variable capacitance connected in series. Find $$C$$ such that the circuit is in resonance at $$5 \text{ KHz}$$",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Draw the parallel resonant circuit and derive the expression for resonant frequency.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Steady State Analysis",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Controlled and un controlled sources",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "State and prove RLC series resonance.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Calculate the current in the $$3\Omega$$ resistor for the circuit shown -",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10V"
+            },
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "1\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "B",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "E",
+              "weight": "5A"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "D",
+              "to": "E",
+              "weight": "1\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Three impedances of $$(70.7 + j70.7) \Omega$$, $$(120 + j160) \Omega$$ and $$(120 + j90) \Omega$$ are connected in parallel across a $$250 \text{ V}$$ supply. Determine i) Admittance of the circuit ii) Supply current iii) Circuit power factor",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Explain the mesh analysis and nodal analysis with example.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is resonance? Explain parallel resonance condition in detail with circuit and equations.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "State and prove RLC parallel resonance.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "State and explain Kirchhoff's voltage and current law with an example.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "A series RLC circuit takes a maximum current of $$0.3 \text{ A}$$ at $$200 \text{ V}$$, $$50 \text{ Hz}$$. If the voltage across the capacitor is $$290 \text{ V}$$ at resonance. Determine $$R, L, C$$ and $$Q$$.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "R, L, C"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "V=200V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Derive the equation for Equivalent inductance, when two inductors are coupled in series opposing and mutual inductance exists between them.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Draw the parallel resonant circuit and derive the expression for resonant frequency",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Steady State Analysis",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Controlled and un controlled sources",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "State KCL and KVL and determine the mesh current $$I_1, I_2$$ and $$I_3$$.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "F",
+              "weight": "12V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "E",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "2V"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "6\u03a9"
+            },
+            {
+              "from": "F",
+              "to": "E",
+              "weight": "Is1"
+            },
+            {
+              "from": "E",
+              "to": "D",
+              "weight": "10V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "State KCL and KVL and determine the mesh current $$I_1, I_2$$ and $$I_3$$.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Find voltage at nodes 1 and 2 from the given figure:",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "Ref"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "1A"
+            },
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "1\u03a9"
+            },
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "Ref",
+              "weight": "1\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "Ref",
+              "weight": "2A"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Dot convention and coupling coefficient.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.27",
+        "question_text": "Explain the concepts of network topology. Define and explain graph, tree, branch, cut-set matrix, and dual networks with suitable examples.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "For the network shown in figure below draw the oriented graph and frame the cut-set matrix",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "10A"
+            },
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "10\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Explain the following with suitable example: i) Sub graph ii) Connected graph iii) Planar graph iv) Tree and Co-Tree",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Dual Networks",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "For the network shown in fig-4 write the tie set matrix for the twigs $$(4, 5, 6)$$ and determine the loop currents and branch currents for the same.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9(1)"
+            },
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "10V"
+            },
+            {
+              "from": "D",
+              "to": "C",
+              "weight": "5\u03a9(3)"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "5\u03a9(6)"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "10\u03a9(2)"
+            },
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "5\u03a9(5)"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Explain the following with an example: i) Tree and Co-Tree ii) Twigs and Links iii) Incidence matrix",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Draw the graph, one tree and its co-tree for the circuit given below-",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "R"
+            },
+            {
+              "from": "b",
+              "to": "c",
+              "weight": "L"
+            },
+            {
+              "from": "a",
+              "to": "d",
+              "weight": "Is"
+            },
+            {
+              "from": "b",
+              "to": "d",
+              "weight": "C"
+            },
+            {
+              "from": "c",
+              "to": "e",
+              "weight": "C"
+            },
+            {
+              "from": "b",
+              "to": "c",
+              "weight": "Vs"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Explain the concept of principle of duality. Also draw the Dual Circuit of Parallel RLC circuit with Current Source.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "For the network shown in fig-4 write the tie set matrix for the twigs $$(2, 4, 5)$$ and determine the loop currents and branch currents for the same.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "30V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "1A"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "10\u03a9(6)"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Define Incidence Matrix for the graph shown in Figure. Find the complete Incidence Matrix.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "(1)"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "(2)"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "(4)"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "(6)"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "(5)"
+            },
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "(3)"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Define and explain the following with an example: i) Graph and Subgraph ii) Oriented Graph iii) Tree of a Graph iv) Twigs and Links",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Dual Networks",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Define graph of the network and draw the graph for the given circuit.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "R"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "L1, C1"
+            },
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "C2"
+            },
+            {
+              "from": "D",
+              "to": "C",
+              "weight": "R1"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Define graph of the network and draw the graph for the given circuit.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Incidence matrix and tie set matrices",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.42",
+        "question_text": "Explain Maximum Power Transfer Theorem. Derive the condition for maximum power transfer in DC and AC circuits.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Explain Millman's theorem and Tellegen's theorem. Discuss their significance in network analysis.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Find $$i_o$$ in the circuit shown in figure using Superposition Theorem.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "C",
+              "weight": "4A"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "1\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "5io"
+            },
+            {
+              "from": "C",
+              "to": "Ref",
+              "weight": "20V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "State and explain Thevenin's theorem with suitable example.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Find the value of $$R_L$$ for maximum power transfer in the circuit shown below. And find the maximum power.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "a",
+            "b"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "12V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "6\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "12\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "2A"
+            },
+            {
+              "from": "C",
+              "to": "a",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "RL"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "For the circuit given below, Find the current 'I' and then verify the reciprocity theorem",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "5V"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "4",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "3",
+              "to": "4",
+              "weight": "1\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Determine the value of $$R_L$$ to be connected across $$AB$$ in fig. 5, for maximum power transfer. Also calculate the maximum power absorbed by the $$R_L$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "4V"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "2k\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "Ref",
+              "weight": "400\u03a9"
+            },
+            {
+              "from": "2",
+              "to": "A",
+              "weight": "3k\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Find the current in the $$14\Omega$$ resistor of the circuit of fig.6 by Thevenin theorem.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "Ref",
+              "to": "A",
+              "weight": "10V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "A",
+              "weight": "1\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "State and prove super position theorem.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Verify reciprocity theorem for the circuit shown in fig. 9.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10V"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "j1\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "-j1\u03a9"
+            },
+            {
+              "from": "C",
+              "to": "D",
+              "weight": "4\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Tellegen's theorem",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Millman theorem",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Find the current through $$AB$$ in the given circuit using Norton's theorem.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "30A"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "6\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "1\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Find $$V_{ab}$$ using Superposition theorem.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "4V"
+            },
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "3V"
+            },
+            {
+              "from": "b",
+              "to": "Ref",
+              "weight": "2A"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Give the statement and prove maximum power transfer theorem with an example.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "By super position theorem calculate current $$I$$ in the circuit shown in fig-5",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "70V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "20\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "50V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Find the norton equivalent circuit across terminal $$AB$$ of the circuit shown in fig-6.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "12V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "State and prove maximum power transfer theorem.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "For the circuit shown in fig-9, find the current in the load impedance, $$Z_L = (2 + j4) \Omega$$ using Millman's theorem.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "1\u22200V"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "5\u22200V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Tellegen's theorem",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Find the Norton's equivalent circuit for the following circuit",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "15V"
+            },
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "4A"
+            },
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "b",
+              "to": "Ref",
+              "weight": "6\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Find the voltage drop across $$3\Omega$$ resistor by Superposition theorem.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "Ref",
+              "weight": "10V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "3\u03a9"
+            },
+            {
+              "from": "B",
+              "to": "Ref",
+              "weight": "10A"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "State and explain the Tellegen's theorem with suitable example.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Determine Thevenin's equivalent circuit across '$$AB$$' for given circuit.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "50V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "5\u03a9"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "25V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Verify the reciprocity theorem for the network shown in figure.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "20V"
+            },
+            {
+              "from": "a",
+              "to": "c",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "c",
+              "to": "d",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "b",
+              "to": "d",
+              "weight": "Ref"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Find $$i_o$$ in the circuit shown using superposition.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "In the network of figure, the maximum power is delivered to $$R_L$$ if its value is",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "20\u03a9"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "RL"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Find the Thevenin and Norton equivalent of the circuit.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "100\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Millman's Theorem",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.71",
+        "question_text": "Explain the concept of transients in electrical circuits. Derive the transient response of $$RC$$ and $$RL$$ circuits for step input excitation.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "State and prove the initial value theorem and final value theorem of Laplace transform. Discuss their applications.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Explain trigonometric and exponential forms of Fourier series. Compare the two representations and discuss their applications.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Find out the Laplace transform for the given signal and calculate the $$ROC$$. $$x(t) = te^{-2t}$$",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Find out the Fourier Transform of $$x(t)=e^{-at} u(t)$$. Also draw the magnitude and phase spectrum of the output.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "A $$200\Omega$$ resistor is in series with an inductor $$L$$. The initial value of the inductor current is $$5 \text{ mA}$$ and its value after $$5 \text{ ms}$$ is $$3 \text{ mA}$$. Find the time constant and the inductance.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "The network as shown in figure below reaches a steady state with switch $$K$$ closed. At $$t = 0$$ switch $$K$$ is opened. Find the $$I(t)$$.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "20V"
+            },
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10V"
+            },
+            {
+              "from": "B",
+              "to": "C",
+              "weight": "30\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "State and explain Initial Value and Final value theorem",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "In the circuit of fig-1 the switch $$S$$ is moved from position $$1$$ to $$2$$ at $$t = 0$$, having been in position $$1$$ for a long time before $$t = 0$$. Capacitor $$C_2$$ is uncharged at $$t = 0$$. i) Find the particular solution for $$i(t)$$ for $$t > 0$$ ii) Find the particular solution for $$v_2(t)$$ for $$t > 0$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "Va"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "R"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "The circuit of fig. 2 reaches a steady state in position $$2$$ and at $$t = 0$$ the switch $$S$$ is moved to position $$1$$. Find $$i(t)$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "20V"
+            },
+            {
+              "from": "2",
+              "to": "Ref",
+              "weight": "10V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "In the network shown in fig. 3, the switch $$S$$ is closed at $$t = 0$$. Find the value of $$i_1(t)$$ and $$i_2(t)$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "100V"
+            },
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "10\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Solve for $$I(t)$$ in the circuit as shown in fig. 7 in which $$3F$$ capacitor is initially charged to $$20V$$ and $$6F$$ capacitor to $$10V$$, and the switch is closed at $$t = 0$$. Also draw the S-transformed circuit.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "20V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "In the circuit of fig-8, switch is in position $$1$$ for long time and moved to position $$2$$ at $$t = 0$$. Find the voltage across the capacitor $$v_c(t)$$ for $$t > 0$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "6V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Determine the voltage $$v_c(t)$$ shown in figure, given an initial voltage $$v_c(0^-) = -2V$$ using Laplace transform method.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "9u(t)V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Discuss about the step response of an $$RC$$ circuit using Laplace transform.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Describe the Laplace transform of the waveform shown in figure-",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "In the circuit of fig-1 at time $$t_0$$, after the switch $$S$$ was closed, it is found that $$v_2 = + 5v$$. Determine the value of $$i_L(t_0)$$ and $$di_L(t_0)/dt$$.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B",
+              "weight": "10V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "In the circuit of fig-2, the switch $$S$$ is open and the circuit reaches a steady state. At $$t = 0$$ the $$S$$ is closed. Find the current in the inductor for $$t > 0$$.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "Ref",
+              "weight": "5V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "In the circuit of fig-3, switch $$S$$ is in position $$1$$ for a long time and moved to position $$2$$ at $$t = 0$$. Find the voltage across the capacitor $$v_c(t)$$ for $$t > 0$$.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "In the circuit of fig-7 at $$t = 0$$ the switch is closed. Determine the voltage across the capacitor buy applying Laplace transform. Assume the initial voltage across the capacitor as $$2V$$. Also draw the S-domain representation of the circuit.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "In circuit of fig-8 the pulse shown is applied as $$v(t)$$ determine $$i(t)$$.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Initial and final value theorem",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Find the value of $$i(0^+)$$ using the initial value theorem for the function $$I(s) = (2s+3)/[(s+1)(s+3)]$$",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "In the network shown in figure below, the switch $$K$$ is moved from position '$$a$$' to '$$b$$' at $$t = 0$$. Find the Particular solution for Current $$i(t)$$.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "Ref",
+              "weight": "V"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "For the waveform shown in figure below. Write the expression and find the Laplace transform.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Explain the Transient analysis of series RL circuit.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "A series $$RC$$ circuit consists of resistor of $$10 \Omega$$ and capacitor of $$0.1 \text{ F}$$ as shown in figure. A constant voltage of $$20 \text{ V}$$ is applied to the circuit at $$t = 0$$. obtain the current equation. Determine the voltages across the resistor and the capacitor.",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "What are the uses of knowing initial conditions in a circuit? Explain the initial conditions in i) Resistor ii) Inductor iii) Capacitor",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.4",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "A series $$RL$$ circuit with $$R = 30 \Omega$$ and $$L = 15 \text{ H}$$ has a constant voltage $$V = 60 \text{ V}$$ applied at $$t = 0$$ as shown in figure. Determine the current $$i$$, the voltage across resistor and the voltage across the inductor.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Explain the transient analysis of series $$RC$$ circuit.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Determine the Laplace transform of i) $$e^{-at} \cos \omega_0 t u(t)$$ ii) $$t^n e^{-at} u(t)$$ ",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "For the $$X(s) = [10(2s + 3)] / [s(s^2 + 2s + 5)]$]. Obtain initial value and final value.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Explain initial and final value theorem.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.104",
+        "question_text": "Explain two-port network parameters. Derive the equations for $$ABCD$$, and hybrid parameters.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Obtain the $$Y$$ parameters for the circuit shown in figure.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "In",
+            "Out"
+          ],
+          "edges": [
+            {
+              "from": "In",
+              "to": "Out",
+              "weight": "2\u03a9"
+            },
+            {
+              "from": "In",
+              "to": "Ref",
+              "weight": "4\u03a9"
+            },
+            {
+              "from": "Out",
+              "to": "Ref",
+              "weight": "8\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Explain poles and zeros of a network function. Discuss their significance in determining system stability and frequency response.",
+        "exam_year_month": "Dec 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Determine the '$$h$$' parameters of the network shown in figure",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "In",
+            "Out"
+          ],
+          "edges": [
+            {
+              "from": "In",
+              "to": "Ref",
+              "weight": "1\u03a9"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Define $$Z$$ and $$Y$$ parameters of a Two port network and determine the relationship between the above parameters.",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Image Parameter",
+        "exam_year_month": "Dec 2024",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Obtain the $$Z$$ and $$Y$$ parameters of the network shown in fig-10.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Hybrid parameters",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Find the transmission parameters of the following two port network:",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Explain $$Y$$-parameters in detail. Also determine its conditions for reciprocity and symmetry.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Obtain the hybrid parameters in terms of $$Z$$-parameters.",
+        "exam_year_month": "Dec 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Obtain the $$Z$$ and $$Y$$ parameters of the network shown in fig-10.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "$$ABCD$$ parameters",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "Find the $$Y$$-parameter of the circuit as shown in figure below",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Define Hybrid parameters of a Two port network. Established the relation between Hybrid Parameters and $$ABCD$$ Parameters.",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "Image Parameter",
+        "exam_year_month": "Nov 2022",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "The $$z$$ parameters $$z_{11}$$ and $$z_{21}$$ for the 2-port networks in figure are:",
+        "exam_year_month": "Dec 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "The $$z$$ parameters $$z_{11}$$ and $$z_{21}$$ for the 2-port networks in figure are:",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.122",
+        "question_text": "Derive hybrid parameters in terms of $$z$$-parameters.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.123",
+        "question_text": "Write down the condition for Reciprocity and condition for symmetry.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
