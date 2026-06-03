@@ -1,0 +1,859 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Convert the following Octal numbers into binary, decimal and hexadecimal. i) 426 ii) 314.52",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "What is Universal gate? Implement a NOR gate using NAND gate.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Minimize the following using Karnaugh map. $$F(A,B,C,D) = \\sum(0,5,7,9,11,13)$$ ",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Simplify the following using Quine McCluskey method. $$f(w,x,y,z) = \\sum_{m}(0,1,3,9,10,12,13,14) + \\sum_{d}(2,5,6,11)$$ ",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "De-Morgan's theorem",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Convert the following: a) $$(4097.188)_{10} = ( )_{2}$$ b) $$(011.101101)_{2} = ( )_{8}$$ c) $$(2645)_{8} = ( )_{2}$$ d) $$(381B)_{16} = ( )_{8}$$ e) $$(457)_{10} = ( )_{gray}$$",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Simplify the following function: $$Y = \\bar{A}B + ABD + \\bar{A}\\bar{B}\\bar{C}\\bar{D} + BC$$ $$Y = A + \\bar{A}B + \\bar{A}\\bar{B}C + \\bar{A}\\bar{B}\\bar{C}D$$",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Simplify the following function using K-map. $$Y = \\bar{A}BC + CD + AC\\bar{D}$$ $$Y = \\sum_{m}(0,1,6,7) + \\sum_{d}(8,9,10,11,12)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Minimize the following function using Quine McCluskey method. $$f = \\sum(1, 2, 3, 7, 8, 9, 10, 11, 14, 15)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Convert the following: a) $$(2048.0625)_{10} = ( )_{2}$$ b) $$(011.101101)_{2} = ( )_{8}$$ c) $$(1923)_{8} = ( )_{2}$$ d) $$(641A)_{16} = ( )_{8}$$ e) $$(572)_{10} = ( )_{gray}$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Simplify the following function: $$Y = (A+B)(\\bar{A}\\bar{C}+C)(\\overline{(\\bar{B}+AC)})$$ $$Y = \\bar{A}C(\\overline{\\bar{A}BD}) + \\bar{A}B\\bar{C}D + A\\bar{B}C$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Simplify the following function using k-map. $$Y = ABCD + A\\bar{B}\\bar{C}\\bar{D} + A\\bar{B}C + AB$$ $$Y = \\sum_{m}(0,2,3,6,7) + \\sum_{d}(8,10,11,16)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Minimize the following function using Quine McCluskey method. $$f = \\sum(1, 2, 3, 5, 6, 9, 10, 13, 15)$$ ",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "For the following Boolean function, list all prime implicants, essential prime implicants and POS form using K-map. $$F(A, B, C, D) = \\pi M (0, 1, 3, 4, 7, 9, 11, 14, 15)$$ ",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Convert the following binary numbers into decimal, octal and hexadecimal. i) 111100001101 ii) 111.0111",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "State and prove De-Morgan's theorem.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Simplify the following using Quine-McCluskey method? $$f(w,x,y,z) = \\sum_{m}(0,1,3,9,10,12,13,14) + \\sum_{d}(2,5,6,11)$$ ",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Implement all logic gates with universal gates.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Design Ex-OR and Ex-Nor gate using i) NAND gate ii) NOR gate",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Reduce the following using Karnaugh map technique and realize using basic gates i) $$F(A, B, C, D) = \\sum_{m}(5,6,7,12,13) + \\sum_{d}(4,9,14,15,)$$ ii) $$F(A, B, C, D) = \\sum_{m}(2,4,8,11,15) + \\sum_{d}(1,10,12,13,)$$ ",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Minimize the expression using Quine McCluskey method $$Y = \\bar{A}\\bar{B}\\bar{C}\\bar{D} + \\bar{A}\\bar{B}C\\bar{D} + A\\bar{B}\\bar{C}\\bar{D} + A\\bar{B}C\\bar{D} + A\\bar{B}CD + \\bar{A}\\bar{B}C\\bar{D}$$ ",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.22",
+        "question_text": "Discuss about the full subtractor in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Explain the working of BCD adder with diagram.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Design and explain a 4 bit priority encoder.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Explain a 8:1 multiplexer in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Full adder",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Design a full adder using two half adders.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Design a BCD adder.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Binary Multiplier and Binary Divider",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Parity checker",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Design a full subtractor.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Design a BCD adder.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Carry look ahead adder",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Design a full adder using only required number of half adders.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Design an Excess-3 to GRAY code convertor and obtain a minimum SOP form. Realise the function using 2-level gate implementation.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Design the logic circuit diagram of a 2-bit binary multiplier and represent the output in POS form.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Realize (A+A'B) using only minimum number of 2-to-4 line decoder to generate the function at a particular output pin of decoder.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Implement the following Boolean functions using 8 x 1 multiplexer (MUX) and external logic gates. Connect inputs 'B' and 'D' to select lines (S1 and S0) of MUX. $$F(A, B, C, D) = \\sum m (0, 3, 5, 7, 9, 10, 12, 14)$$ ",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Design one full adder using two half adders?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Design and explain a 4-bit priority encoder.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Design and explain a 16:1 mux using 2:1 mux.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Design two bit magnitude comparator.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Design full adder using two half adders.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Design BCD adder.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Design a carry look ahead adder.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Design a magnitude comparator",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.47",
+        "question_text": "Write a short note on master slave J-K flip-flop.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Explain the designing of synchronous FSM.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "S-R flip-flop",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "With the help of circuit diagram explain the working of J-K flip-flop. Also explain rece around condition.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Design a Pseudo Random Binary sequence generator.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Explain the working of master slave flip-flop.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Design a pulse train generator.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Pseudo Random Binary sequence generator",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Convert a T flip-flop into J-K flip-flop. Show all the necessary calculations with final logic diagram.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "The state diagram of a control unit is shown in Fig. 1. It has four states and two inputs, 'x' and 'y'. Draw the equivalent ASM chart and design the controller using D flip flops.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["00", "01", "10", "11"],
+          "edges": [
+            { "from": "00", "to": "00", "weight": "x=0" },
+            { "from": "00", "to": "01", "weight": "x=1" },
+            { "from": "01", "to": "11", "weight": "y=0" },
+            { "from": "01", "to": "10", "weight": "y=1" },
+            { "from": "11", "to": "11", "weight": "x=1, y=0" },
+            { "from": "11", "to": "10", "weight": "x=1, y=1" },
+            { "from": "11", "to": "01", "weight": "x=0, y=0" },
+            { "from": "10", "to": "10", "weight": "y=0" },
+            { "from": "10", "to": "00", "weight": "y=1" }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Design a sequence detector to detect the sequence 0011 using Mealy machine. Use D flip-flops only along with other logic gates.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Write a short notes on JK flip-flop.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "What are the basic elements used in ASM chart explain in detail?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Finite state machine capabilities and limitations.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "State diagram and state stable, state reduction.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Explain the designing and working of following flip flop. i) SR flip flop ii) D flip flop iii) T flip flop.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Explain the working of JK flip flop. What is race around condition? How can it be overcomed?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.64",
+        "question_text": "Explain the differences between the synchronous and asynchronous counters.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "What are universal shift registers? Explain in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Design a MOD-6 counter using J-K flip flop.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Design MOD-7 counter using JK flip-flop.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Shift register",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Design a 3 bit UP/DOWN synchronous counter with mode bit M, such that when, M = 0, then counter counts in DOWN direction and when M = 1, then counter counts in UP direction. Use D flip flop for design of the counter.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "A square waveform of 120 Hz is to be used to generate a square waveform of frequency 20 Hz using a counter. Design a logic circuit for the same using D flip-flops and other necessary logic gates. Show all the necessary steps for achieving the goal.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Design a synchronous counter to generate the following sequence (as shown in Fig. 2) using T flip flop. 0-2-7-3-4-5",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Assuming that the initial state of the shift register shown in Fig. 3 is 100 (i.e., $$Q_{0} = 1, Q_{1} = 0$$ and $$Q_{2} = 0$$), find the next six successive states. Also find, after how many shifts does the register return to the starting state?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Design a modulo-6 counter which counts in the sequence 0, 1, 2, 3, 4, 5, 0, 1... The counter counts the clock pulses if it's enable input is equal to 1, using D flip-flop?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Explain difference between the synchronous and asynchronous counters.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Design and explain the working of 4-bit ring counter.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Design asynchronous 4-bit up/down counter using JK flip-flop.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Explain the working of asynchronous Up/Down counter.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Discuss about different types of register's and their application.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.79",
+        "question_text": "Draw the circuit of basic ECL inverter and explain its operation.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Draw and explain TTL NAND gate.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Tri state TTL",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "CMOS",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "FPGA",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "TTL",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "ECL",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Explain the following: i) Three state TTL gate ii) Fan-in and Fan-out iii) Noise margin",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Draw and explain Tri-state TTL NAND gate.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Explain in detail FPGA with suitable block diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "DTL, TTL",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "CMOS inverter",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "ROM, RAM",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
